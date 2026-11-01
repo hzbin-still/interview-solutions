@@ -1,0 +1,16 @@
+# 编译产物
+out/
+target/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### OS ###
+Thumbs.db
+.DS_Store
